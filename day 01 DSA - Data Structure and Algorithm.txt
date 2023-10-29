@@ -1,0 +1,21 @@
+Data Structure :- Efficiently Store the data 
+
+Two Types :-
+1. Linear 
+-> array, linked list, stack & queue, hashmap(Dictonary)
+
+2. Non-linear
+-> trees, graph, heap
+
+Algorithm :- Set of instructions to solve a specific problem
+-> divide & conquer, greedy algo, dynamic programming
+
+Analysis Module:
+
+Two Types :-
+1. Apriori Analysis
+-> Working on approximation & logic|| not dependent on hardware
+
+2. Apostiary Analysis
+->Exact results || deoendent on hardware
+
